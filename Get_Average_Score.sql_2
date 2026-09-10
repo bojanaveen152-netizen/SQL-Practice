@@ -1,0 +1,4 @@
+SELECT
+  AVG(Score)
+FROM
+  Player_match_details;
