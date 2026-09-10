@@ -1,0 +1,6 @@
+SELECT
+  DISTINCT brand
+FROM
+  Product
+ORDER BY
+  brand ASC;
